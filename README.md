@@ -4,6 +4,8 @@ Below are the list of activities, we need to complete weekly.
 
 ## week 1
 
+### Environment setup
+
 1. Installation of python
 2. Python environment
 3. Python environment management using venv, vscode and pycharm
